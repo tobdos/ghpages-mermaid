@@ -3,9 +3,7 @@ name: 'render mermaid to svg & create doxygen'
 on:
   push:
     paths:
-      - '**/*.md'
-    paths-ignore:
-      - 'README.md'
+      - 'index.md'
 
 jobs:
   build:
