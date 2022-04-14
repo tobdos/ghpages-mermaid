@@ -1,6 +1,6 @@
 ## Entrypoint of gh-pages
 
-# Test
+# Testing mermaid graph
 
 ```mermaid
 graph TD;
