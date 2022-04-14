@@ -1,5 +1,6 @@
 # ghpages-mermaid
 Repo for testing the github pages feature with integrated mermaid graph rendering.  
-Mermaid rendering is included on github itself but not yet on github-pages as it seems.
+Mermaid rendering is included on github itself but not yet on github-pages as it seems.  
+The action used is taken from [https://github.com/neenjaw/compile-mermaid-markdown-action](https://github.com/neenjaw/compile-mermaid-markdown-action)
 
 [Link to hosted github pages website](https://tobdos.github.io/ghpages-mermaid/)
